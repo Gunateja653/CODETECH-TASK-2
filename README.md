@@ -54,3 +54,4 @@ Given the class imbalance ratio, we recommend measuring the accuracy using the A
 RandomForestClassifier library is used to create and train a Classifiction model.
 Model parameters such as the objective function  accuracy score
 
+![Screenshot 2024-07-14 2000400](https://github.com/user-attachments/assets/bd5cb935-cfc3-48d0-b0ba-cda34d063712)
