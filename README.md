@@ -1,7 +1,7 @@
 # CODETECH-TASK-2
 Credit_Card Fraud_Detection ML model
-# Boston-Housing-mL-model
-The Boston Housing Dataset
+# Credit_Card Fraud_Detection
+Credit_Card Fraud_Detection
 * **NAME:** Guna Teja sarvan Patnaik
 * **COMPANY:** CODETECH IT SOLUTIONS
 * **ID:** CT4ML4739
