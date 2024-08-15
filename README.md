@@ -1,14 +1,5 @@
-# CODETECH-TASK-2
-Credit_Card Fraud_Detection ML model
-# Credit_Card Fraud_Detection
-Credit_Card Fraud_Detection
-* **NAME:** Guna Teja sarvan Patnaik
-* **COMPANY:** CODETECH IT SOLUTIONS
-* **ID:** CT4ML4739
-* **DOMAIN:** MACHINE LEARNING
-* **DURATION:** 25 JULY 2024
-* **MENTOR:** Muzammil Ahmed
 
+Credit_Card Fraud_Detection ML model
 # Content
 The dataset contains transactions made by credit cards in September 2013 by European cardholders.
 This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
